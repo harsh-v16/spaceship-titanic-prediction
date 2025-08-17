@@ -4,7 +4,7 @@
 This project focuses on the Kaggle competition "Spaceship Titanic," where the objective is to predict which passengers were transported to an alternate dimension based on various features provided in the dataset.
 
 ## Files Included
-- spaceship_titanic_vscode.py: Python script developed using VS Code for data analysis and model building.
+- spaceship.py: Python script developed using VS Code for data analysis and model building.
 - submission.csv: CSV file containing the final predictions for the test dataset.
 
 ## Dataset
